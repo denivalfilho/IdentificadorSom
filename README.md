@@ -31,7 +31,7 @@ Embora a divisão de trabalho do nosso grupo seja organizada, é importante dest
 - Responsável pela integração do dispositivo IoT com o sistema de identificação de sons, garantindo a comunicação eficiente entre eles.
 
 **Pedro Azevedo Batista (Piphoka)** – *Apresentação, Pesquisa Teórica e Integração*  
-- Realizar pesquisa teórica sobre características dos sons (como brilho, textura, etc.) e preparar a apresentação do projeto.
+- Realizar pesquisa teórica sobre características dos sons (como brilho, textura, etc.) e coordenar a apresentação que os integrantes farão do projeto.
 
 **Rafael Magesto** – *Modelo 3D do IoT*  
 - Desenvolver o modelo 3D do dispositivo IoT utilizado no projeto.
